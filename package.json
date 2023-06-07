@@ -1,0 +1,14 @@
+{
+    "name": "template",
+    "main": "main.js",
+    "author": "RemusHejkss",
+    "version": "1.0.0",
+    "description": "template by remushejkss",
+    "scripts": {
+      "start": "node main.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.11.0",
+        "ms": "^2.1.3"
+    }
+}
